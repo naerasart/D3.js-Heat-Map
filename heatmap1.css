@@ -1,0 +1,27 @@
+ body {
+     background-color: yellow;
+     margin-top: 1%;
+     height: 80%;
+ }
+ 
+ svg {
+     padding: 1px
+ }
+ 
+ #header {
+     margin-left: 5%;
+     margin-right: 5%;
+     padding: 15px;
+     text-align: center;
+ }
+ 
+ #legend {
+     margin-left: 5%;
+     margin-right: 5%;
+ }
+ 
+ #map {
+     margin-left: 20%;
+     margin-right: 30%;
+     padding: 5px;
+ }
